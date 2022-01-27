@@ -1,7 +1,7 @@
 import random
 import string
 
-print ("Hello ,Welcome to Password Generator")
+print ("Hello ,Welcome to Password Generator...")
 
 lower = string.ascii_lowercase
 upper = string.ascii_uppercase
